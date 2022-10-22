@@ -1,5 +1,5 @@
 ## 功能介绍 
-公益培训报名小程序，提供给文化馆，图书馆，文体中心，青少年活动中心，少年宫等社会公益机构进行公益培训活动报名登记的小工具，前后端代码完整，主要功能包括公告通知，课堂风采，报名列表，报名登记，采用腾讯提供的小程序云开发解决方案，无须服务器和域名。
+培训机构小程序已经很常见，利用微信这个巨型流量池的社交属性，可以很好地为机构争取线上流量。但针对培训机构生源的高流失率，仅靠招生显然是不够的，如何留住已有生源同样至关重要，培训机构信息化管理系统则可以帮助教育机构打造从学员招生、管理到维护留存的一整套体系。系统的模板消息，可用于提醒学员参与课程，进而培养其黏性；系统后台的数据分析能力，能为差异化营销提供支持，进而减少流失；积分体系及会员权益又能促使优质学员重复消费
 
 - 报名项目管理：开始/截止时间/是否审核/是否可取消/是否可修改/人数等参数均可灵活设置，并可以自定义客户报名填写的数据项
 - 报名审核：可以设定报名名单是否审核，审核不通过可提示用户完善资料
@@ -7,10 +7,9 @@
 - 详尽的报名数据：支持报名名单数据导出Excel，打印
 
 
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/116468331/197366444-f980780d-c7e8-43aa-9c3f-8fa00ce1e32c.png)
  
-![输入图片说明](demo/%E5%85%AC%E7%9B%8A%E5%9F%B9%E8%AE%AD%E6%8A%A5%E5%90%8D%E5%B0%8F%E7%A8%8B%E5%BA%8F%20(2).jpeg)
-
+![image](https://user-images.githubusercontent.com/116468331/197366446-0282d4b7-cd91-4629-be19-12b841b6f405.png)
 
 ## 技术运用
 - 本项目使用微信小程序平台进行开发。
@@ -20,17 +19,12 @@
 - 资源承载力可根据业务发展需要随时弹性扩展。  
 
 
-
-## 作者
-- 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
-- 俺的微信: 
-
- ![输入图片说明](demo/author.jpg)
+ 
 
 
 
 ## 演示 
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/116468331/197366449-0efc78d2-2069-4c38-b232-1e97a2698b8a.png)
 
 ## 安装
 
@@ -40,31 +34,29 @@
 
 
 ## 截图
-![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
+ ![image](https://user-images.githubusercontent.com/116468331/197366454-63cc5bbb-11e5-4719-b89f-98c9a584fed2.png)
+![image](https://user-images.githubusercontent.com/116468331/197366455-f5b8f72e-e475-4f1d-ae7b-043389491245.png)
+![image](https://user-images.githubusercontent.com/116468331/197366456-aada17af-a65b-4c01-be42-2c75e6cae863.png)
+![image](https://user-images.githubusercontent.com/116468331/197366459-7827451c-63fe-4b2d-8c12-c3dd97316c54.png)
+![image](https://user-images.githubusercontent.com/116468331/197366462-9158e85d-ab5a-4a44-9e91-244567a11d66.png)
+![image](https://user-images.githubusercontent.com/116468331/197366463-95e48f6c-bba3-4524-acdc-978c0ce10ee4.png)
+![image](https://user-images.githubusercontent.com/116468331/197366466-1f669fbc-1deb-4312-9f47-8f3ca42ad61a.png)
+![image](https://user-images.githubusercontent.com/116468331/197366467-e554fb20-6f92-461e-9cf7-ca7cbc759d0f.png)
+![image](https://user-images.githubusercontent.com/116468331/197366468-a31aee52-2f20-4426-9fe9-9028fa6dd85c.png)
 
-![输入图片说明](demo/2%E8%AF%BE%E5%A0%82%E9%A3%8E%E9%87%87.png)
-![输入图片说明](demo/3%E6%8A%A5%E5%90%8D%E9%A1%B9%E7%9B%AE.png)
- ![输入图片说明](demo/4%E6%8A%A5%E5%90%8D%E9%A1%B9%E7%9B%AE.png)
-![输入图片说明](demo/5%E6%8A%A5%E5%90%8D%E8%AF%A6%E6%83%85%E9%A1%B5.png)
-![输入图片说明](demo/6%E5%A1%AB%E5%86%99%E6%8A%A5%E5%90%8D%E8%B5%84%E6%96%99.png)
-![输入图片说明](demo/7%E6%B5%B7%E6%8A%A5%E5%88%86%E4%BA%AB.png)
-![输入图片说明](demo/8%E6%88%91%E7%9A%84.png)
-![输入图片说明](demo/9%E6%88%91%E7%9A%84%E6%8A%A5%E5%90%8D.png)
 
 ## 后台管理系统截图 
 - 后台超级管理员默认账号:admin，密码123456，请登录后台后及时修改密码和创建普通管理员。
+![image](https://user-images.githubusercontent.com/116468331/197366469-bb44d9d4-6bbc-482c-a55e-858c7d22ef76.png)
+![image](https://user-images.githubusercontent.com/116468331/197366473-3090b679-d42f-4e62-a085-658b0d09f34b.png)
+![image](https://user-images.githubusercontent.com/116468331/197366476-e38179be-7836-4d52-ab2a-4f58172c830b.png)
+![image](https://user-images.githubusercontent.com/116468331/197366477-b769e387-a1e9-4961-ad15-1a93848d7e6e.png)
+![image](https://user-images.githubusercontent.com/116468331/197366478-5567dc26-7c84-480a-bc19-c59e697d8011.png)
 
+![image](https://user-images.githubusercontent.com/116468331/197366479-655538f5-91c8-472b-b7d3-b49aadd8eac6.png)
+![image](https://user-images.githubusercontent.com/116468331/197366480-eaacf8a1-01d0-4b5d-a9d8-617fb8da273a.png)
 
-![输入图片说明](demo/10%E5%90%8E%E5%8F%B0-%E9%A6%96%E9%A1%B5.png)
+ ![image](https://user-images.githubusercontent.com/116468331/197366482-bad26528-d60e-4c46-af97-428eb73c978d.png)
 
-![输入图片说明](demo/11%E5%90%8E%E5%8F%B0-%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.png)
-
-![输入图片说明](demo/12%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/15%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E7%AE%A1%E7%90%86.jpg)
-![输入图片说明](demo/17%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E5%90%8D%E5%8D%95.png)
-![输入图片说明](demo/18%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E5%90%8D%E5%8D%95%E5%AE%A1%E6%A0%B8%E4%B8%8E%E7%AE%A1%E7%90%86.png)
-
-![输入图片说明](demo/19%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E8%B5%84%E6%96%99%E9%A1%B9%E7%9B%AE%E8%AE%BE%E7%BD%AE.png)
-![输入图片说明](demo/20%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E5%AF%BC%E5%87%BA.jpg)
-![输入图片说明](demo/20%E5%90%8E%E5%8F%B0-%E7%AE%A1%E7%90%86%E5%91%98%E7%AE%A1%E7%90%86.png)
+![image](https://user-images.githubusercontent.com/116468331/197366483-0504ced3-9a14-426c-8422-575991fc893f.png)
 
